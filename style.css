@@ -1,0 +1,95 @@
+h2{
+	color: #754f5b;
+	font-size:40px;
+}
+
+h1{
+	font-size: 45px;
+}
+
+body card{
+	padding: 20px;
+}
+
+#pic{
+	padding: 110px;
+	background-image:url("images/images1.jpg");
+	background-size: cover;
+}
+
+#header {
+	background-color: #754f5b;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+#header p{
+	font-size: 23px;
+}
+
+#header a{
+	text-decoration: none;
+	color: #754f5b;
+	font-size: 34px;
+}
+
+#header a:hover{
+	color: white;
+}
+
+.card img {
+	border-radius: 20px;
+}
+
+#footer{
+	background-color: #754f5b;
+	color: white;
+	font-size: 18px;
+	text-align: left;
+}
+
+img{
+	height: 300px;
+	width: 200px;
+}
+
+body{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 24px;
+}
+#footer a:hover {
+  color: white;
+}
+
+#footer img{
+	width: 70px;
+	height: 70px;
+}
+
+.card{
+	padding: 20px;
+	text-align: center;
+}
+
+#login {
+	background-color: #754f5b;
+}
+
+#login button{
+	align-items:right;
+}
+
+#login a{
+	text-decoration: none;
+	color: #754f5b;
+	font-size: 14px;
+}
+
+#login a:hover{
+	color: white;
+}
